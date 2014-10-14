@@ -6,4 +6,5 @@ addons:
   - shared-database:5mb
 default_process_types:
   hello: cat hello.txt
+foo: bar
 EOF
